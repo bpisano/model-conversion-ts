@@ -1,5 +1,5 @@
 {
-  "name": "model-conversion-ts",
+  "name": "model-conversion",
   "version": "1.0.0",
   "description": "A package to simplify conversion between models.",
   "author": "bpisano",
